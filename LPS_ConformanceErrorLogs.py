@@ -17,8 +17,10 @@ def createLPSLog(filename, option):
 
 if __name__ == '__main__':
 
+    LPS_dir = 'LPS_Logs'
+    
     # Create LPS log (Type A)
-    LPS_log_A = createLPSLog('LiqueurPlant2024_LOG.txt', True)
+    LPS_log_A = createLPSLog(f'{LPS_dir}/LiqueurPlant2024_LOG.txt', True)
 
     # Discover petri net (Alpha Miner)
     net1, im1, fm1 = pm4py.discover_petri_net_alpha(LPS_log_A)
@@ -32,13 +34,13 @@ if __name__ == '__main__':
     ### Create LPS logs with errors ###
 
     # 1: Missing activities
-    error_logA1 = createLPSLog('A_ERROR_LOG1.txt', True)
+    error_logA1 = createLPSLog(f'{LPS_dir}/A_ERROR_LOG1.txt', True)
 
     # 2: Wrong order activities
-    error_logA2 = createLPSLog('A_ERROR_LOG2.txt', True)
+    error_logA2 = createLPSLog(f'{LPS_dir}/A_ERROR_LOG2.txt', True)
 
     # 3: Duplicate activities
-    error_logA3 = createLPSLog('A_ERROR_LOG3.txt', True)
+    error_logA3 = createLPSLog(f'{LPS_dir}/A_ERROR_LOG3.txt', True)
 
     error_logsA = [error_logA1, error_logA2, error_logA3]
 
@@ -69,7 +71,7 @@ if __name__ == '__main__':
             print(e)
 
     # Create LPS log (Type B)
-    LPS_log_B = createLPSLog('LiqueurPlant2024_LOG.txt', False)
+    LPS_log_B = createLPSLog(f'{LPS_dir}/LiqueurPlant2024_LOG.txt', False)
 
     # Discover petri net (Alpha Miner)
     net1, im1, fm1 = pm4py.discover_petri_net_alpha(LPS_log_B)
@@ -83,13 +85,13 @@ if __name__ == '__main__':
     ### Create LPS logs with errors ###
 
     # 1: Missing activities
-    error_logB1 = createLPSLog('B_ERROR_LOG1.txt', False)
+    error_logB1 = createLPSLog(f'{LPS_dir}/B_ERROR_LOG1.txt', False)
 
     # 2: Wrong order activities
-    error_logB2 = createLPSLog('B_ERROR_LOG2.txt', False)
+    error_logB2 = createLPSLog(f'{LPS_dir}/B_ERROR_LOG2.txt', False)
 
     # 3: Duplicate activities
-    error_logB3 = createLPSLog('B_ERROR_LOG3.txt', False)
+    error_logB3 = createLPSLog(f'{LPS_dir}/B_ERROR_LOG3.txt', False)
 
     error_logsB = [error_logB1, error_logB2, error_logB3]
 

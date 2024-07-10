@@ -19,12 +19,14 @@ def createLPSLog(filename, option):
     return new_log
 
 if __name__ == '__main__':
+    
+    LPS_dir = 'LPS_Logs'
 
     # Create LPS log (Type A)
-    LPS_log_A = createLPSLog('LiqueurPlant2024_LOG.txt', True)
+    LPS_log_A = createLPSLog(f'{LPS_dir}/LiqueurPlant2024_LOG.txt', True)
 
     # Create LPS log (Type B)
-    LPS_log_B = createLPSLog('LiqueurPlant2024_LOG.txt', False)
+    LPS_log_B = createLPSLog(f'{LPS_dir}/LiqueurPlant2024_LOG.txt', False)
 
     LPS_logs = [LPS_log_A, LPS_log_B]
 
