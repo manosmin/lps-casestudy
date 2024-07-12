@@ -1,0 +1,72 @@
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 6310.22it/s]
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.6592956592956594, 'log_fitness': 0.6592956592956594, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 863.44it/s] 
+0.24137931034482762
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9473684210526316, 'log_fitness': 0.9473684210526316, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.8461538461538461, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.8461538461538461, 'log_fitness': 0.8461215981292596}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 2155.64it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.885483870967742, 'log_fitness': 0.885483870967742, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.6296296296296297, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.6296296296296297, 'log_fitness': 0.6295934164425976}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 9683.70it/s] 
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.6976744186046512, 'log_fitness': 0.6976744186046512, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 884.34it/s] 
+0.24137931034482762
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9772727272727273, 'log_fitness': 0.9772727272727273, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.8666666666666667, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.8666666666666667, 'log_fitness': 0.8666384448207357}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 2551.68it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9487179487179487, 'log_fitness': 0.9487179487179487, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.6774193548387097, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.6774193548387097, 'log_fitness': 0.677383663541996}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [00:00<00:00, 6731.23it/s]
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.666923076923077, 'log_fitness': 0.666923076923077, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [00:00<00:00, 750.00it/s] 
+0.240506329113924
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9791666666666666, 'log_fitness': 0.9791666666666666, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.8823529411764706, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.8823529411764706, 'log_fitness': 0.8823278549664122}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 27/27 [00:00<00:00, 2454.03it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9671497584541062, 'log_fitness': 0.9671497584541062, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.7142857142857143, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.7142857142857143, 'log_fitness': 0.7142563270343937}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 9580.64it/s] 
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.6, 'log_fitness': 0.6, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 1116.69it/s] 
+0.17647058823529416
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.8571969696969697, 'log_fitness': 0.8571969696969697, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.8571428571428572, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.8571428571428572, 'log_fitness': 0.8571163269096156}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 19/19 [00:00<00:00, 2713.74it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.8620689655172413, 'log_fitness': 0.8620689655172413, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.6, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.6, 'log_fitness': 0.599960000799984}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 7639.90it/s] 
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.6787878787878788, 'log_fitness': 0.6787878787878788, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 718.58it/s] 
+0.23300970873786409
+{'perc_fit_traces': 100.0, 'average_trace_fitness': 1.0, 'log_fitness': 1.0, 'percentage_of_fitting_traces': 100.0}
+{'percFitTraces': 100.0, 'averageFitness': 1.0, 'percentage_of_fitting_traces': 100.0, 'average_trace_fitness': 1.0, 'log_fitness': 0.9999718753515581}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 23/23 [00:00<00:00, 2555.06it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9590840840840841, 'log_fitness': 0.9590840840840841, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.7931034482758621, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.7931034482758621, 'log_fitness': 0.7930621885829554}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:00<00:00, 9336.98it/s] 
+1.0
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.6779784142797842, 'log_fitness': 0.6779784142797842, 'percentage_of_fitting_traces': 0.0}
+trying to apply alignments on a Petri net that is not a easy sound net!!
+replaying log with TBR, completed variants :: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:00<00:00, 823.36it/s] 
+0.17910447761194026
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.9245283018867925, 'log_fitness': 0.9245283018867925, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.8648648648648649, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.8648648648648649, 'log_fitness': 0.8648420017080897}
+replaying log with TBR, completed variants :: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:00<00:00, 2544.92it/s] 
+0.5
+{'perc_fit_traces': 0.0, 'average_trace_fitness': 0.8966701902748415, 'log_fitness': 0.8966701902748415, 'percentage_of_fitting_traces': 0.0}
+{'percFitTraces': 0.0, 'averageFitness': 0.6764705882352942, 'percentage_of_fitting_traces': 0.0, 'average_trace_fitness': 0.6764705882352942, 'log_fitness': 0.6764371112189527}
