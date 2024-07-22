@@ -6,7 +6,7 @@ This repo contains the Python scripts and event logs that were utilized for the 
 ![Heuristic Net Type A](PetriNets/readme.png)
 
 
-## Tech stack
+## Tech Stack
 
 **Programming Languages:** Python
 
